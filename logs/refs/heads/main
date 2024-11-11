@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 f828b4e57b16c910c76d653b678cbfc3734ebc7e Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614610710 -0500	clone: from https://github.com/dynatrace-oss/PTC-Windchill.git
+f828b4e57b16c910c76d653b678cbfc3734ebc7e fa16487888d171eb1c36118fba4c9f8817b363f2 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614619429 -0500	commit: Changed the action
+fa16487888d171eb1c36118fba4c9f8817b363f2 db1dada02abfc144e6cc128aef326c838fe6606b Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614620084 -0500	commit: Changed the action
+db1dada02abfc144e6cc128aef326c838fe6606b 8740a211f91357517ee1d1f04d8730917425b5c3 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614620322 -0500	commit: Fixed the syntax error
+8740a211f91357517ee1d1f04d8730917425b5c3 f41b3b50caf92e6a0c4f9c702708f1e72dbe3b7c Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614620829 -0500	commit: Using different release process
+f41b3b50caf92e6a0c4f9c702708f1e72dbe3b7c 0d99faf5352e4ebd5538e88a85cc38374c4a2749 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614621355 -0500	commit: Using different release process with GoReleaser
+0d99faf5352e4ebd5538e88a85cc38374c4a2749 99ca9725f1bcf70c5ec45c2d0ac9a32acecc81ac Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614621701 -0500	commit: Using different release process with GoReleaser
+99ca9725f1bcf70c5ec45c2d0ac9a32acecc81ac d3ae0650efaadc37b8f9837d17ea664da02eb3ac Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614622705 -0500	commit: Changed signing process
+d3ae0650efaadc37b8f9837d17ea664da02eb3ac 72c7ed4eac43527eeffcdeeb08ac60a85208fc09 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614625334 -0500	commit: Fixed syntax error
+72c7ed4eac43527eeffcdeeb08ac60a85208fc09 4dd7b1d8eeb5034f241b4a950ef488d4202acbda Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614626385 -0500	commit: Added link to the binary for the utility
+4dd7b1d8eeb5034f241b4a950ef488d4202acbda e068057a8ae78c84f5c10236088b8c10e4480697 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614626455 -0500	commit: Added link to the binary for the utility
+e068057a8ae78c84f5c10236088b8c10e4480697 3ee7e413205da0287dfc83e9d8f36876f20038bb Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614628463 -0500	commit: Added sleep time for metrics
+3ee7e413205da0287dfc83e9d8f36876f20038bb 37e2edadee0ba56f5419b34d5cff0ec762fd2ed9 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614628493 -0500	commit: Added extra doc for the util
+37e2edadee0ba56f5419b34d5cff0ec762fd2ed9 4fd20d758146ccbe265784806e996f7b8a886b13 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614629045 -0500	commit: Added sleep time for MetricService
+4fd20d758146ccbe265784806e996f7b8a886b13 f1756eb4a3459ab79c6add8f5e56d2c941cdc935 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614629703 -0500	commit: Added group email
+f1756eb4a3459ab79c6add8f5e56d2c941cdc935 4ab959432de2b16b14a5cba96036d95b9f659221 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614629749 -0500	commit: Added group email
+4ab959432de2b16b14a5cba96036d95b9f659221 5c5cce393d2b76c76fbf030a0706d305c8dd53e3 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1614800725 -0500	commit: Removed .DS_Store
+5c5cce393d2b76c76fbf030a0706d305c8dd53e3 822d48b577c9950e18808d517f97ed65ea7fbfac Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1615300190 -0500	commit: Changed the chart to show data by request attributes
+822d48b577c9950e18808d517f97ed65ea7fbfac 3bbc3a66068f6d6bfbb1bf1870b48038a4033971 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1615300337 -0500	commit: Replaced it with another dashboard
+3bbc3a66068f6d6bfbb1bf1870b48038a4033971 2e9b8596e4cd5c4d4048d21d397ecf90564b069c Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1623344064 -0400	pull: Fast-forward
+2e9b8596e4cd5c4d4048d21d397ecf90564b069c 4ba7cbb784e1470ab51eed83c8ca1291d34e469e Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1623344097 -0400	commit: Increased delay for Dashboard permissions to 30s
+4ba7cbb784e1470ab51eed83c8ca1291d34e469e aa01db1a014d871bd7244a07158db5ae12d7fb54 Asad-Ali-Dynatrace <asad.ali@dynatrace.com> 1623344163 -0400	commit: Increased delay for Dashboard permissions to 10s
+aa01db1a014d871bd7244a07158db5ae12d7fb54 5e78deb442594c582f4cb30c5e79e18ae1bf389e Dynatrace-Asad-Ali <asad.ali@dynatrace.com> 1630512649 -0700	pull: Fast-forward
+5e78deb442594c582f4cb30c5e79e18ae1bf389e adbce99c70eaa1be5a8c5ecad3b808510c6c2dbb Dynatrace-Asad-Ali <asad.ali@dynatrace> 1630617540 -0700	pull: Fast-forward
+adbce99c70eaa1be5a8c5ecad3b808510c6c2dbb b8b6b44f7d3da9e96eb565b3f45994946827ecbe Dynatrace-Asad-Ali <asad.ali@dynatrace> 1637777272 -0700	pull: Fast-forward
+b8b6b44f7d3da9e96eb565b3f45994946827ecbe 0682e5118c031e6cd2001642abfacc9e10b3b97b Dynatrace-Asad-Ali <asad.ali@dynatrace> 1730478262 -0700	commit: Added sleep time before DeteactionRules
