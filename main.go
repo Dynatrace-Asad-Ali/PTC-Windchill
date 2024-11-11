@@ -113,7 +113,7 @@ func (p *Processor) Process() error {
 		}
 
 		//Sleeping for a second because sometimes the DT cluster takes time to register the existence of a newly created object
-		// Adding entry for DetectionRules too
+		// Adding entry for DetectionRules too.
 		if (endpointName == "MetricsService"  || endpointName == "DetectionRules" ) {
 			time.Sleep(6 * time.Second)
 		}
